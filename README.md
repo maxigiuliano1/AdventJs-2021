@@ -1,2 +1,5 @@
 # AdventJs-2021
-Desafios de programacion durante 25 dias, 1 por dia, poniendo en practica la logica 
+
+Desde 2015 se celebra el Advent Of Code que trae retos de programación cada día. En este caso, los retos están pensados para ser solucionados con JavaScript.
+Es una iniciativa de midudev
+https://adventjs.dev/
